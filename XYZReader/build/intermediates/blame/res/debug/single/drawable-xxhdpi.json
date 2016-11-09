@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    }
+]

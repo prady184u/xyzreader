@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_67668d5d73af712627a0b3a89e37291ba97f4002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_94450c76b460601dc71dc48e464f189352a39415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_4cf630d6c38c40e0835647938f2b6cb03b934b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_bf7a6a3b33ed21304a2185d06859f11f09038ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_3ba4bd0675daafb10d0f646dc05a7ec281e8c288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.1_14c31d4185155bfdbb8d689b27ae3facb67cc3b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_bf7a6a3b33ed21304a2185d06859f11f09038ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_027973ec068efd41542f4060f89d8602dab1ba26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_da68efa535ab7eebbd49e84cde906a5ca2dba798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_4cf630d6c38c40e0835647938f2b6cb03b934b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_390dc39a5eba225cc6580366c9520fd77048981d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b785324a5dc416c78cac60e4f148317af7b81f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_7af4af8f6174534752e13aa609b1da9fe5f68ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_7dd863b5787bdc0847cda1b2a0f637c2c1fda1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_c9ceeb744716048cf8dabc909663cc0f2e6fdfb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.0.1_cd81611ae66e637fe7744a941da5efcba20a4c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_3ba4bd0675daafb10d0f646dc05a7ec281e8c288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pradeepkumarr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_03048028ba6c4449f29ac73ed39ecfbd105248a2.jar" />
+    </item>
+
+</items>

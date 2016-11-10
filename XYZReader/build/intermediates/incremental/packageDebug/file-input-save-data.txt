@@ -1,12 +1,12 @@
 #Internal package file, do not edit.
-#Wed Nov 09 22:20:37 IST 2016
+#Thu Nov 10 12:29:28 IST 2016
 14.set=ANDROID_RESOURCE
 180.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
 118.set=ANDROID_RESOURCE
 60.set=ANDROID_RESOURCE
 2.set=ANDROID_RESOURCE
 164.set=ANDROID_RESOURCE
-26.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+26.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
 78.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/select_dialog_item_material.xml
 21.set=ANDROID_RESOURCE
 53.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
@@ -445,7 +445,7 @@ count=198
 150.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/abc_popup_menu_item_layout.xml
 127.set=ANDROID_RESOURCE
 30.set=ANDROID_RESOURCE
-48.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+48.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
 23.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_btn_default_mtrl_shape.xml
 134.set=ANDROID_RESOURCE
 75.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/activity_article_list.xml
@@ -498,7 +498,7 @@ count=198
 151.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/color/abc_primary_text_material_light.xml
 137.set=ANDROID_RESOURCE
 40.set=ANDROID_RESOURCE
-49.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+49.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
 24.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/anim/abc_popup_enter.xml
 144.set=ANDROID_RESOURCE
 76.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
@@ -547,7 +547,7 @@ count=198
 152.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout/abc_action_bar_view_list_nav_layout.xml
 108.set=ANDROID_RESOURCE
 50.set=ANDROID_RESOURCE
-25.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+25.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
 154.set=ANDROID_RESOURCE
 77.file=/Users/pradeepkumarr/Documents/GitHub/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
 11.set=ANDROID_RESOURCE

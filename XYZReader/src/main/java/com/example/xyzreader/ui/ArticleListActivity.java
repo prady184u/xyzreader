@@ -43,7 +43,9 @@ public class ArticleListActivity extends AppCompatActivity implements
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mToolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+        //Actually you don't really need to add an Up Navigation to your main screen since it doesn't really have a parent screen.
+        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
